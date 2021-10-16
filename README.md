@@ -23,6 +23,12 @@ Also, this project currently focuses solely on Bitcoin, due to its centrality in
 
 Alternatively, for easier user convenience we can inculcate this backend process onto a hosted website, or social media platform bots such as Telegram bots, Discord bots, WhatsApp bots, etc.
 
+Due to GitHub's size constraints, the dataset containing the historical market values of Bitcoin could not be uploaded as a CSV file. Therefore, we provide a link (from Kaggle) which is also referenced to in the report:
+
+Zielak. (2021, April 11). Bitcoin historical data. Kaggle. Retrieved from https://www.kaggle.com/mczielinski/bitcoin-historical-data. 
+
+The other relevant datasets have been uploaded in the repository.
+
 
 
 MIT License
