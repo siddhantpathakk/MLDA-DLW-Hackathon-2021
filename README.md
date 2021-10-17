@@ -14,6 +14,9 @@ We believe that AI has endless possibilities, and it should not be limited to a 
 ## Our Solution: 
 We aim to analyze the historical data, i.e., the open, high, low, and close prices of the Bitcoin cryptocurrency, along with real-time sentimental analysis of the tweets centered around the same for a similar time to predict the weighted price of the token by the end of the trading market.
 
+## Youtube video:
+The unlisted youtube video link is: https://youtu.be/RwYc7QJUD70
+
 ## Footnotes:
 We are assuming the cryptocurrency market is affected by only these 5-6 variables, which is however untrue because the market is extremely volatile. special events such as Election Results Day, UN global sessions, Independence Day, and various other occasions where the market doesn’t behave rationally.
 
